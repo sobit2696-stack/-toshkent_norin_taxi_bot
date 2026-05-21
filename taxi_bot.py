@@ -28,7 +28,10 @@ async def cmd_start(message: types.Message):
     kb.add(InlineKeyboardButton("🚖 Guruhimizga a'zo bo'ling", url=GROUP_LINK))
     await message.answer(
         "🚖 *Toshkent Norin Taxi*\n\n"
-        "Assalomu alaykum! Xizmatimizga xush kelibsiz!\n\n""https://t.me/toshken_norintaksi_22""https://t.me/toshken_norintaksi_22"
+        "Assalomu alaykum! Xizmatimizga xush kelibsiz!\n\n"
+        "https://t.me/toshken_norintaksi_22""https://t.me/toshken_norintaksi_22"
+        "https://t.me/toshken_norintaksi_22""https://t.me/toshken_norintaksi_22"
+        "https://t.me/toshken_norintaksi_22""https://t.me/toshken_norintaksi_22"
         "🚕 Ishonchli va tez taksi xizmati\n"
         "📍 Toshkent va Norin yo'nalishi\n"
         "⏰ 24/7 xizmat\n"

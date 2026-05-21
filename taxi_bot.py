@@ -29,10 +29,10 @@ async def cmd_start(message: types.Message):
     await message.answer(
         "🚖 *Toshkent Norin Taxi*\n\n"
         "Assalomu alaykum! Xizmatimizga xush kelibsiz!\n\n"
-        "https://t.me/toshken_norintaksi_22""https://t.me/toshken_norintaksi_22"
-        "https://t.me/toshken_norintaksi_22""https://t.me/toshken_norintaksi_22"
-        "https://t.me/toshken_norintaksi_22""https://t.me/toshken_norintaksi_22"
-        "🚕 Ishonchli va tez taksi xizmati\n"
+        "https://t.me/toshken_norintaksi_22" "https://t.me/toshken_norintaksi_22"
+        "https://t.me/toshken_norintaksi_22" "https://t.me/toshken_norintaksi_22"
+        "https://t.me/toshken_norintaksi_22" "https://t.me/toshken_norintaksi_22"
+        "🚕 Ishonchli va tez taksi xizmati\n "https://t.me/toshken_norintaksi_22
         "📍 Toshkent va Norin yo'nalishi\n"
         "⏰ 24/7 xizmat\n"
         "📞 Aloqa: @mamasodikovs\n\n"

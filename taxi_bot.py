@@ -6,7 +6,8 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.utils import executor
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
-BOT_TOKEN = "8455450354:AAFGVTmAJR2rc4z6a9d6UOjt5Qo4Zi62mn8"
+BOT_TOKEN = "8455450354:AAE58MVzTmEBhPk39pETWNN7zDkmcEtTD4A"
+
 ADMIN_CHAT_ID = 1926442757
 
 logging.basicConfig(level=logging.INFO)
